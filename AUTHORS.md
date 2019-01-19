@@ -1,4 +1,4 @@
 Authors
 =======
 
-Scraping is written and maintained by Rahul Shukla.
+Scrape-Urls is written and maintained by Rahul Shukla.
