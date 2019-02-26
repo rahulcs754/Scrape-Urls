@@ -6,6 +6,10 @@ Usage
 -------
 You can clone the project and run the following command to install: 
 
+```bash
+$ git clone https://github.com/rahulcs754/Scrape-Urls.git
+```
+
 *I consider, You have already installed virtualenv and pip.*
 
 *First of all, create a virtualenv in a working directory*
@@ -24,10 +28,9 @@ $ source virtualenv_name/bin/activate
 $ source virtualenv_name/Scripts/activate
 ```
 
-
 #saving list of dependencies to file
 ```bash
-pip freeze > requirements.txt
+pip install -r requirements.txt
 ```
 
 # run main file 
