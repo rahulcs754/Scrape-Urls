@@ -3,7 +3,7 @@ certifi==2018.11.29
 chardet==3.0.4
 get==2018.11.19
 idna==2.8
-lxml==4.3.0
+lxml==4.6.3
 post==2018.11.20
 public==2018.11.20
 query-string==2018.11.20
